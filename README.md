@@ -1,5 +1,7 @@
 # MineSite
 
+[![Join the chat at https://gitter.im/jtrip/MineSite](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jtrip/MineSite?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Join the chat at https://gitter.im/i3detroit/MineSite](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/i3detroit/MineSite?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  
   
 A simple bootstrap site (html/css/js) for community minecraft servers    
